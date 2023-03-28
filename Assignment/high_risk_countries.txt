@@ -1,0 +1,1 @@
+'KP', 'IR', 'MM', 'AL', 'BB', 'BF', 'KY', 'CD', 'GI', 'HT', 'JM', 'JO', 'ML', 'MZ', 'NG', 'PA', 'PH', 'SN', 'ZA', 'SS', 'SY', 'TZ', 'TR', 'UG', 'AE', 'YE'
